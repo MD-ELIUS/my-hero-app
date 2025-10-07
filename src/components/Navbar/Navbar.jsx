@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import logoImg from '../../assets/logo.png'
 import gitLogo from '../../assets/github-logo.png'
-import { NavLink } from 'react-router';
+import { Link, NavLink } from 'react-router';
 import { Menu, X } from 'lucide-react';
 import './Navbar.css'
 
@@ -29,12 +29,12 @@ const Navbar = () => {
                 }
 
             </div>
-
             
-            <button className='flex gap-[6px] md:gap-[10px] bg-gradient-to-tr from-[#632EE3] to-[#9F62F2] rounded-[8px] px-2 py-1  md:px-3 md:py-2 lg:px-4 lg:py-3 items-center'>
+            <Link to='https://github.com/MD-ELIUS' className='flex gap-[6px] md:gap-[10px] bg-gradient-to-tr from-[#632EE3] to-[#9F62F2] rounded-[8px] px-2 py-1  md:px-3 md:py-2 lg:px-4 lg:py-3 items-center' >
                 <img className=' h-[15px] w-[15px] md:h-[20px] md:w-[20px]' src={gitLogo} alt="" />
                 <p className='font-semibold text-[#FFFFFF]'>Contribute</p>
-            </button>
+            </Link>
+            
             
         </div>
     );
