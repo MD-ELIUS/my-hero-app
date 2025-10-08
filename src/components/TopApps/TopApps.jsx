@@ -9,7 +9,7 @@ const TopApps = ({apps}) => {
             <h1 className='text-[24px] sm:text-[28px] md:text-[32px] lg:text-[40px] xl:text-[44px] 2xl:text-[48px] font-bold text-[#001931] mb-[4px] sm:mb-[6px] md:mb-[8px] lg:mb-[12px] xl:mb-[14px] 2xl:mb-[16px] text-center '>Trending Apps</h1>
             <p className='text-[#627382] text-[12px] sm:text-[13px] md:text-[14px] lg:text-[16px] xl:text-[18px] 2xl:text-[20px] mb-[10px] sm:mb-[15px] md:mb-[20px] lg:mb-[30px] xl:mb-[35px] 2xl:mb-[40px] text-center'>Explore All Trending Apps on the Market developed by us</p>
 
-            <div className='grid grid-cols-2 lg:grid-cols-3 2xl:grid-cols-4 gap-6'>
+            <div className='grid grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6'>
 
                 {featureApps.map(app => <AppCard key={app.id} app={app}></AppCard>)}
 

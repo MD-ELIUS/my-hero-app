@@ -8,7 +8,7 @@ const Home = () => {
 
     const apps = useLoaderData()
     return (
-        <div>
+        <div >
             <Banner></Banner>
             <States></States>
             <TopApps apps={apps}></TopApps>
