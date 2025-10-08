@@ -1,0 +1,458 @@
+[
+  {
+    "image": "https://i.ibb.co.com/Rpr9xKQ5/demo-app-1.webp",
+    "title": "PhotoMaster - Professional Photo Editor",
+    "companyName": "PixelSoft",
+    "id": 1,
+    "description": "PhotoMaster allows you to edit your photos professionally with hundreds of filters, advanced editing tools, and easy-to-use features. Enhance your images for social media or personal albums.",
+    "size": 25,
+    "reviews": 1200,
+    "ratingAvg": 4.5,
+    "downloads": 500000,
+    "feature": true,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 600 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/XPFqp4x/demo-app-2.webp",
+    "title": "FitTrack - Fitness & Calorie Tracker",
+    "companyName": "HealthPro",
+    "id": 2,
+    "description": "FitTrack helps you monitor workouts, track calories, and set personal fitness goals. Stay motivated with progress charts and tips for a healthier lifestyle.",
+    "size": 40,
+    "reviews": 980,
+    "ratingAvg": 4.2,
+    "downloads": 350000,
+    "feature": true,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 35 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 455 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/7NCYsRmk/demo-app-3.webp",
+    "title": "TaskMate - Productivity & Task Manager",
+    "companyName": "OrganizeIt",
+    "id": 3,
+    "description": "TaskMate makes managing your tasks and projects simple. Organize your work with to-do lists, reminders, and project boards for maximum productivity.",
+    "size": 15,
+    "reviews": 750,
+    "ratingAvg": 4.0,
+    "downloads": 220000,
+    "feature": true,
+    "ratings": [
+      { "name": "1 star", "count": 25 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 250 },
+      { "name": "5 star", "count": 245 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/JwwmyV7p/demo-app-4.webp",
+    "title": "TravelBuddy - Trip Planner & Guide",
+    "companyName": "Wanderlust Inc.",
+    "id": 4,
+    "description": "TravelBuddy lets you plan your trips effortlessly. Discover new destinations, book hotels, track flights, and get personalized travel recommendations.",
+    "size": 55,
+    "reviews": 1100,
+    "ratingAvg": 4.6,
+    "downloads": 600000,
+    "feature": true,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 20 },
+      { "name": "3 star", "count": 90 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 560 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/LdBzP2TC/demo-app-5.webp",
+    "title": "NewsFlash - Breaking News & Alerts",
+    "companyName": "Global Media",
+    "id": 5,
+    "description": "NewsFlash brings breaking news from around the world to your fingertips. Customize topics of interest and get notifications in real-time.",
+    "size": 30,
+    "reviews": 640,
+    "ratingAvg": 4.1,
+    "downloads": 180000,
+    "feature": true,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 180 },
+      { "name": "4 star", "count": 200 },
+      { "name": "5 star", "count": 215 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/5gRWG5mj/demo-app-6.webp",
+    "title": "BudgetWise - Expense & Money Tracker",
+    "companyName": "FinanceTech",
+    "id": 6,
+    "description": "BudgetWise helps you manage your finances efficiently. Track your expenses, set monthly budgets, and get insights to save more money.",
+    "size": 20,
+    "reviews": 890,
+    "ratingAvg": 4.3,
+    "downloads": 400000,
+    "feature": true,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 35 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 375 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Rpr9xKQ5/demo-app-1.webp",
+    "title": "MindRelax - Meditation & Sleep",
+    "companyName": "WellnessLabs",
+    "id": 7,
+    "description": "MindRelax provides guided meditation and breathing exercises to reduce stress, improve focus, and enhance your overall wellbeing.",
+    "size": 18,
+    "reviews": 520,
+    "ratingAvg": 4.4,
+    "downloads": 150000,
+    "feature": true,
+    "ratings": [
+      { "name": "1 star", "count": 15 },
+      { "name": "2 star", "count": 20 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 180 },
+      { "name": "5 star", "count": 205 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/XPFqp4x/demo-app-2.webp",
+    "title": "Foodies - Recipes & Restaurant Finder",
+    "companyName": "YumCorp",
+    "id": 8,
+    "description": "Foodies helps you discover new recipes, find restaurants nearby, and share your culinary experiences with friends. Includes shopping lists and step-by-step cooking guides.",
+    "size": 35,
+    "reviews": 760,
+    "ratingAvg": 4.2,
+    "downloads": 280000,
+    "feature": true,
+    "ratings": [
+      { "name": "1 star", "count": 25 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 200 },
+      { "name": "5 star", "count": 355 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/7NCYsRmk/demo-app-3.webp",
+    "title": "WeatherNow - Real-time Weather Updates",
+    "companyName": "ClimateTech",
+    "id": 9,
+    "description": "Get real-time weather updates and alerts for your city and travel destinations. Includes radar maps and severe weather notifications.",
+    "size": 12,
+    "reviews": 430,
+    "ratingAvg": 4.0,
+    "downloads": 200000,
+    "feature": false,
+    "ratings": [
+      { "name": "1 star", "count": 10 },
+      { "name": "2 star", "count": 15 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 140 },
+      { "name": "5 star", "count": 145 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/JwwmyV7p/demo-app-4.webp",
+    "title": "MusicVibe - Stream Your Favorite Music",
+    "companyName": "SoundWave",
+    "id": 10,
+    "description": "Stream your favorite music anytime and create personalized playlists. Explore curated playlists by mood or genre.",
+    "size": 45,
+    "reviews": 1000,
+    "ratingAvg": 4.5,
+    "downloads": 500000,
+    "feature": false,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 35 },
+      { "name": "3 star", "count": 180 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 445 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/LdBzP2TC/demo-app-5.webp",
+    "title": "LearnLang - Interactive Language Learning",
+    "companyName": "EduWorld",
+    "id": 11,
+    "description": "Learn new languages interactively with games, quizzes, and conversation practice. Perfect for beginners and advanced learners.",
+    "size": 50,
+    "reviews": 800,
+    "ratingAvg": 4.3,
+    "downloads": 350000,
+    "feature": false,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 220 },
+      { "name": "5 star", "count": 335 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/5gRWG5mj/demo-app-6.webp",
+    "title": "GameZone - Casual Games & Challenges",
+    "companyName": "PlayHub",
+    "id": 12,
+    "description": "GameZone brings you addictive casual games with weekly challenges and rewards. Compete with friends and climb the leaderboard.",
+    "size": 60,
+    "reviews": 900,
+    "ratingAvg": 4.4,
+    "downloads": 420000,
+    "feature": false,
+    "ratings": [
+      { "name": "1 star", "count": 35 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 180 },
+      { "name": "4 star", "count": 220 },
+      { "name": "5 star", "count": 335 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Rpr9xKQ5/demo-app-1.webp",
+    "title": "RecipeBook - Discover New Recipes",
+    "companyName": "CookMaster",
+    "id": 13,
+    "description": "Discover new recipes, save favorites, and follow step-by-step cooking instructions. Includes nutritional info for each dish.",
+    "size": 30,
+    "reviews": 540,
+    "ratingAvg": 4.1,
+    "downloads": 210000,
+    "feature": false,
+    "ratings": [
+      { "name": "1 star", "count": 15 },
+      { "name": "2 star", "count": 20 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 180 },
+      { "name": "5 star", "count": 225 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/XPFqp4x/demo-app-2.webp",
+    "title": "HealthMonitor - Heart & Activity Tracker",
+    "companyName": "MediTech",
+    "id": 14,
+    "description": "Track your health metrics such as heart rate, sleep patterns, and daily activity. Get personalized recommendations for a healthier lifestyle.",
+    "size": 28,
+    "reviews": 620,
+    "ratingAvg": 4.2,
+    "downloads": 250000,
+    "feature": false,
+    "ratings": [
+      { "name": "1 star", "count": 18 },
+      { "name": "2 star", "count": 22 },
+      { "name": "3 star", "count": 140 },
+      { "name": "4 star", "count": 200 },
+      { "name": "5 star", "count": 240 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/7NCYsRmk/demo-app-3.webp",
+    "title": "WorkoutPro - Guided Fitness Workouts",
+    "companyName": "FitLabs",
+    "id": 15,
+    "description": "Guided workouts for all levels. Track progress, set goals, and enjoy challenges to improve fitness daily.",
+    "size": 35,
+    "reviews": 800,
+    "ratingAvg": 4.3,
+    "downloads": 300000,
+    "feature": false,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 200 },
+      { "name": "5 star", "count": 405 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/JwwmyV7p/demo-app-4.webp",
+    "title": "MeditationNow - Guided Meditation & Relaxation",
+    "companyName": "CalmSpace",
+    "id": 16,
+    "description": "MeditationNow offers guided meditation sessions, sleep stories, and breathing exercises to reduce stress and improve focus.",
+    "size": 22,
+    "reviews": 540,
+    "ratingAvg": 4.4,
+    "downloads": 180000,
+    "feature": false,
+    "ratings": [
+      { "name": "1 star", "count": 12 },
+      { "name": "2 star", "count": 18 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 160 },
+      { "name": "5 star", "count": 230 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/LdBzP2TC/demo-app-5.webp",
+    "title": "DailyPlanner - Organize Your Day",
+    "companyName": "OrganizeIt",
+    "id": 17,
+    "description": "Plan your day effectively with DailyPlanner. Track tasks, events, and deadlines all in one place with reminders.",
+    "size": 20,
+    "reviews": 480,
+    "ratingAvg": 4.1,
+    "downloads": 170000,
+    "feature": false,
+    "ratings": [
+      { "name": "1 star", "count": 15 },
+      { "name": "2 star", "count": 20 },
+      { "name": "3 star", "count": 110 },
+      { "name": "4 star", "count": 150 },
+      { "name": "5 star", "count": 185 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/5gRWG5mj/demo-app-6.webp",
+    "title": "TravelGuide - Explore Destinations Easily",
+    "companyName": "Wanderlust Inc.",
+    "id": 18,
+    "description": "TravelGuide offers local guides, maps, and must-see attractions for travelers. Plan your perfect vacation effortlessly.",
+    "size": 48,
+    "reviews": 720,
+    "ratingAvg": 4.2,
+    "downloads": 290000,
+    "feature": false,
+    "ratings": [
+      { "name": "1 star", "count": 18 },
+      { "name": "2 star", "count": 22 },
+      { "name": "3 star", "count": 140 },
+      { "name": "4 star", "count": 200 },
+      { "name": "5 star", "count": 340 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Rpr9xKQ5/demo-app-1.webp",
+    "title": "BookWorld - Digital Library & Reader",
+    "companyName": "Readify",
+    "id": 19,
+    "description": "BookWorld is a digital library app where you can read thousands of books online. Discover bestsellers, save favorites, and customize reading preferences.",
+    "size": 33,
+    "reviews": 680,
+    "ratingAvg": 4.3,
+    "downloads": 310000,
+    "feature": false,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 200 },
+      { "name": "5 star", "count": 285 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/XPFqp4x/demo-app-2.webp",
+    "title": "StudyBuddy - Focus Timer for Study",
+    "companyName": "EduTools",
+    "id": 20,
+    "description": "StudyBuddy helps you concentrate with a focus timer, study reminders, and task management tools. Boost productivity and track study hours easily.",
+    "size": 16,
+    "reviews": 540,
+    "ratingAvg": 4.4,
+    "downloads": 220000,
+    "feature": false,
+    "ratings": [
+      { "name": "1 star", "count": 10 },
+      { "name": "2 star", "count": 15 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 180 },
+      { "name": "5 star", "count": 235 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/7NCYsRmk/demo-app-3.webp",
+    "title": "NoteMaster - Notes & To-Do Lists",
+    "companyName": "NoteTech",
+    "id": 21,
+    "description": "NoteMaster allows you to take notes, organize tasks, and manage your daily to-do lists efficiently with sync across devices.",
+    "size": 18,
+    "reviews": 470,
+    "ratingAvg": 4.1,
+    "downloads": 180000,
+    "feature": false,
+    "ratings": [
+      { "name": "1 star", "count": 12 },
+      { "name": "2 star", "count": 15 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 140 },
+      { "name": "5 star", "count": 203 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/JwwmyV7p/demo-app-4.webp",
+    "title": "LanguageLab - Interactive Language Practice",
+    "companyName": "EduWorld",
+    "id": 22,
+    "description": "LanguageLab offers interactive exercises, vocabulary games, and real-time practice to help learners improve language skills efficiently.",
+    "size": 40,
+    "reviews": 610,
+    "ratingAvg": 4.2,
+    "downloads": 270000,
+    "feature": false,
+    "ratings": [
+      { "name": "1 star", "count": 18 },
+      { "name": "2 star", "count": 20 },
+      { "name": "3 star", "count": 140 },
+      { "name": "4 star", "count": 200 },
+      { "name": "5 star", "count": 232 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/LdBzP2TC/demo-app-5.webp",
+    "title": "HealthPlus - Diet & Nutrition Tracker",
+    "companyName": "HealthPro",
+    "id": 23,
+    "description": "HealthPlus tracks your daily meals, calorie intake, and nutrition. Provides diet plans and recommendations for a healthy lifestyle.",
+    "size": 32,
+    "reviews": 580,
+    "ratingAvg": 4.3,
+    "downloads": 260000,
+    "feature": false,
+    "ratings": [
+      { "name": "1 star", "count": 15 },
+      { "name": "2 star", "count": 20 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 180 },
+      { "name": "5 star", "count": 245 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/5gRWG5mj/demo-app-6.webp",
+    "title": "CityExplorer - Local Events & Activities",
+    "companyName": "UrbanLife",
+    "id": 24,
+    "description": "CityExplorer helps you find local events, activities, and hangouts in your city. Perfect for tourists and locals looking for entertainment.",
+    "size": 28,
+    "reviews": 500,
+    "ratingAvg": 4.1,
+    "downloads": 240000,
+    "feature": false,
+    "ratings": [
+      { "name": "1 star", "count": 12 },
+      { "name": "2 star", "count": 18 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 160 },
+      { "name": "5 star", "count": 210 }
+    ]
+  }
+]

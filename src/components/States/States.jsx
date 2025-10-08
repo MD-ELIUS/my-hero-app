@@ -8,19 +8,19 @@ const States = () => {
             <div className='flex justify-center items-center gap-[16px] sm:gap-[32px] md:gap-[64px] lg:gap-[96px] xl:gap-[128px] 2xl:gap-[160px] '>
                 <div className='flex flex-col '>
                     <p className='text-[#FFFFFF]/80 text-[12px] sm:text-[13px] md:text-[14px] lg:text-[15px] xl:text-[15px] 2xl:text-[16px]'>Total Downloads</p>
-                    <h2 className='font-extrabold text-[32px] sm:text-[36px] md:text-[40px] lg:text-[48px] xl:text-[56px] 2xl:text-[64px] text-[#FFFFFF]'>29.6M</h2>
+                    <h2 className='font-extrabold text-[32px] sm:text-[36px] md:text-[40px] lg:text-[48px] xl:text-[56px] 2xl:text-[64px] text-[#FFD700]'>29.6M</h2>
                     <p className='text-[#FFFFFF]/80 text-[12px] sm:text-[13px] md:text-[14px] lg:text-[15px] xl:text-[15px] 2xl:text-[16px]'>21% more than last month</p>
                 </div>
 
                   <div className='flex flex-col '>
                     <p className='text-[#FFFFFF]/80 text-[12px] sm:text-[13px] md:text-[14px] lg:text-[15px] xl:text-[15px] 2xl:text-[16px]'>Total Reviews</p>
-                    <h2 className='font-extrabold text-[32px] sm:text-[36px] md:text-[40px] lg:text-[48px] xl:text-[56px] 2xl:text-[64px] text-[#FFFFFF]'>906K</h2>
+                    <h2 className='font-extrabold text-[32px] sm:text-[36px] md:text-[40px] lg:text-[48px] xl:text-[56px] 2xl:text-[64px] text-[#00FFFF]'>906K</h2>
                     <p className='text-[#FFFFFF]/80 text-[12px] sm:text-[13px] md:text-[14px] lg:text-[15px] xl:text-[15px] 2xl:text-[16px]'>46% more than last month</p>
                 </div>
 
                   <div className='flex flex-col '>
                     <p className='text-[#FFFFFF]/80 text-[12px] sm:text-[13px] md:text-[14px] lg:text-[15px] xl:text-[15px] 2xl:text-[16px]'>Active Apps</p>
-                    <h2 className='font-extrabold text-[32px] sm:text-[36px] md:text-[40px] lg:text-[48px] xl:text-[56px] 2xl:text-[64px] text-[#FFFFFF]'>132+</h2>
+                    <h2 className='font-extrabold text-[32px] sm:text-[36px] md:text-[40px] lg:text-[48px] xl:text-[56px] 2xl:text-[64px] text-[#ec2863]'>132+</h2>
                     <p className='text-[#FFFFFF]/80 text-[12px] sm:text-[13px] md:text-[14px] lg:text-[15px] xl:text-[15px] 2xl:text-[16px]'>31 more will Launch</p>
                 </div>
             </div>

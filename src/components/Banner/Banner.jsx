@@ -12,7 +12,7 @@ const Banner = () => {
                 <span className='bg-gradient-to-tr from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent'>Productive</span> Apps
             </h1>
             
-            <div className='text-[#627382] text-[16px] sm:text-[18px] md:text-[20px] lg:text-[22px] xl:text-[24px] 2xl:text-[26px] mt-[12px] sm:mt-[14px] md:mt-[16px] lg:mt-[20px] xl:mt-[24px]'>
+            <div className='text-[#627382] text-[16px] sm:text-[18px] md:text-[20px] lg:text-[22px] xl:text-[24px] 2xl:text-[26px] mt-[12px] sm:mt-[14px] md:mt-[16px] lg:mt-[20px] xl:mt-[24px] px-[16px] sm:px-[32px] md:px-[64px] lg:px-[96px] xl:px-[128px] 2xl:px-[160px]'>
         <p> At HERO.IO, we craft innovative apps designed to make everyday life simpler, smarter, and more exciting. 
              Our goal is to turn your ideas into digital experiences that truly make an impact. </p>
             </div>
