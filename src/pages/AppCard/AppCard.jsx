@@ -1,5 +1,6 @@
 import React from 'react';
 import { Download, Star } from 'lucide-react';
+import { Link } from 'react-router';
 
 const AppCard = ({app}) => {
 
@@ -11,9 +12,20 @@ const AppCard = ({app}) => {
 
    const avgRating = totalRatingValue/totalRatingCount
 
-    console.log(rating1Count, rating2Count, rating3Count, rating4Count, rating5Count)
-  
+      function formatDownloads(num) {
+  if (num >= 1_000_000) {
+    return (num / 1_000_000).toFixed(1).replace(/\.0$/, '') + 'M';
+  } else if (num >= 1_000) {
+    return (num / 1_000).toFixed(1).replace(/\.0$/, '') + 'K';
+  } else {
+    return num.toString();
+  }
+}
+
+   
     return (
+
+        <Link to={`/apps/${app.id}`}>
         <div className='p-4 bg-[#FFFFFF] shadow-md rounded-[8px] flex flex-col gap-4'>
             <div className='rounded-[8px] overflow-hidden flex justify-center'>
                 <img className='w-[160px] h-[160px] sm:w-[200px] sm:h-[200px] md:w-[240px] md:h-[240px] lg:w-[280px] lg:h-[280px] xl:w-[300px] xl:h-[300px] 2xl:w-[316px] 2xl:h-[316px] object-cover rounded-[8px]' src={app.image} alt="" />
@@ -25,7 +37,7 @@ const AppCard = ({app}) => {
                 
                 <button className='bg-[#F1F5E8] px-[6px] py-[4px] sm:px-[8px] sm:py-[5px] md:px-[10px] md:py-[6px] lg:px-[12px] lg:py-[7px] xl:px-[14px] xl:py-[8px] 2xl:px-[16px] 2xl:py-[10px] text-[#00D390] font-medium rounded-[8px] flex items-center gap-1 text-[12px] sm:text-[13px] md:text-[14px] lg:text-[15px] xl:text-[15px] 2xl:text-[16px]'>
                   <Download className='w-3 h-3 md:w-3.5 md:h-3.5 lg:w-4 lg:h-4 '/>
-                  <p>{app.downloads}</p>
+                  <p>{formatDownloads(app.downloads)}</p>
                 </button  >
                 <button  className='bg-[#FFF0E1] px-[6px] py-[4px] sm:px-[8px] sm:py-[5px] md:px-[10px] md:py-[6px] lg:px-[12px] lg:py-[7px] xl:px-[14px] xl:py-[8px] 2xl:px-[16px] 2xl:py-[10px] text-[#FF8811] font-medium rounded-[8px] flex items-center gap-1 text-[12px] sm:text-[13px] md:text-[14px] lg:text-[15px] xl:text-[15px] 2xl:text-[16px]'>
                       <Star className='w-3 h-3 md:w-3.5 md:h-3.5 lg:w-4 lg:h-4 '/>
@@ -33,6 +45,8 @@ const AppCard = ({app}) => {
                 </button>
             </div>
         </div>
+        </Link>
+        
     );
 };
 

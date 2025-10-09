@@ -1,21 +1,21 @@
 [
-  {
+ {
     "image": "https://i.ibb.co.com/Rpr9xKQ5/demo-app-1.webp",
     "title": "PhotoMaster - Professional Photo Editor",
     "companyName": "PixelSoft",
     "id": 1,
-    "description": "PhotoMaster allows you to edit your photos professionally with hundreds of filters, advanced editing tools, and easy-to-use features. Enhance your images for social media or personal albums.",
+    "description": "PhotoMaster is a complete photo editing studio designed for both amateurs and professionals. It combines advanced editing tools with an intuitive interface, allowing users to effortlessly enhance photos, adjust lighting, and apply artistic effects. The app includes smart AI correction, background removal, and layer-based editing that rivals desktop-grade editors.\n\nIts real strength lies in workflow optimization — batch editing, one-click presets, and customizable filters help users save time while maintaining creative freedom. The inbuilt cloud sync lets you access and edit your projects across multiple devices. With its social-media-ready export options, you can instantly share high-quality visuals without losing resolution.\n\nWhether you’re refining portraits, designing thumbnails, or adjusting colors for marketing materials, PhotoMaster turns every image into a masterpiece. It’s not just a photo editor — it’s a creative companion for visual storytelling.",
     "size": 25,
-    "reviews": 1200,
-    "ratingAvg": 4.5,
-    "downloads": 500000,
+    "reviews": 1800,
+    "ratingAvg": 4.6,
+    "downloads": 780000,
     "feature": true,
     "ratings": [
-      { "name": "1 star", "count": 50 },
-      { "name": "2 star", "count": 30 },
-      { "name": "3 star", "count": 120 },
-      { "name": "4 star", "count": 400 },
-      { "name": "5 star", "count": 600 }
+      { "name": "1 star", "count": 80 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 250 },
+      { "name": "4 star", "count": 650 },
+      { "name": "5 star", "count": 760 }
     ]
   },
   {
@@ -23,18 +23,18 @@
     "title": "FitTrack - Fitness & Calorie Tracker",
     "companyName": "HealthPro",
     "id": 2,
-    "description": "FitTrack helps you monitor workouts, track calories, and set personal fitness goals. Stay motivated with progress charts and tips for a healthier lifestyle.",
+    "description": "FitTrack is your personal digital coach that helps you monitor workouts, track calories, and set fitness milestones tailored to your lifestyle. The app intelligently adapts to your activity level, suggesting daily goals based on progress and nutrition data. With real-time statistics, you can visualize your calorie burn, hydration level, and step count throughout the day.\n\nIt supports workout logging for gym sessions, running, yoga, and more — all synchronized with wearable devices. The dashboard offers personalized insights and progress charts, motivating you to stay consistent. FitTrack’s community feature lets you join fitness challenges, share results, and gain inspiration from others.\n\nBy combining data analytics with motivational tools, FitTrack ensures that your health journey is engaging, measurable, and sustainable. It’s not just a tracker — it’s your companion toward a balanced, healthier life.",
     "size": 40,
-    "reviews": 980,
-    "ratingAvg": 4.2,
-    "downloads": 350000,
+    "reviews": 1250,
+    "ratingAvg": 4.4,
+    "downloads": 520000,
     "feature": true,
     "ratings": [
-      { "name": "1 star", "count": 40 },
-      { "name": "2 star", "count": 35 },
-      { "name": "3 star", "count": 150 },
-      { "name": "4 star", "count": 300 },
-      { "name": "5 star", "count": 455 }
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 240 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 650 }
     ]
   },
   {
@@ -42,18 +42,18 @@
     "title": "TaskMate - Productivity & Task Manager",
     "companyName": "OrganizeIt",
     "id": 3,
-    "description": "TaskMate makes managing your tasks and projects simple. Organize your work with to-do lists, reminders, and project boards for maximum productivity.",
+    "description": "TaskMate brings structure and clarity to your day with intelligent task organization. You can categorize projects, set recurring reminders, and collaborate with team members in real time. The app’s minimalist interface reduces clutter, allowing you to focus only on what matters.\n\nThe built-in analytics visualize how you spend your time, helping identify bottlenecks and productivity gaps. You can prioritize tasks by urgency, attach notes or files, and even integrate your calendar for seamless synchronization. With dark mode and custom themes, TaskMate adapts to your work style.\n\nWhether managing personal goals or professional projects, TaskMate becomes your ultimate command center for productivity, helping you achieve more with less stress.",
     "size": 15,
-    "reviews": 750,
-    "ratingAvg": 4.0,
-    "downloads": 220000,
+    "reviews": 1100,
+    "ratingAvg": 4.3,
+    "downloads": 300000,
     "feature": true,
     "ratings": [
-      { "name": "1 star", "count": 25 },
-      { "name": "2 star", "count": 30 },
-      { "name": "3 star", "count": 200 },
-      { "name": "4 star", "count": 250 },
-      { "name": "5 star", "count": 245 }
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 280 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 620 }
     ]
   },
   {
@@ -61,18 +61,18 @@
     "title": "TravelBuddy - Trip Planner & Guide",
     "companyName": "Wanderlust Inc.",
     "id": 4,
-    "description": "TravelBuddy lets you plan your trips effortlessly. Discover new destinations, book hotels, track flights, and get personalized travel recommendations.",
+    "description": "TravelBuddy simplifies the art of trip planning. It helps you discover destinations, book hotels, and plan itineraries all in one app. With built-in maps, flight tracking, and local recommendations, every part of your journey becomes smoother.\n\nThe app’s AI travel assistant curates experiences based on your interests — adventure, food, culture, or relaxation. Offline mode ensures you never get lost even without internet. You can store tickets, bookings, and guides securely in one place.\n\nTravelBuddy transforms travel chaos into seamless adventure, making it perfect for explorers, families, and digital nomads alike.",
     "size": 55,
-    "reviews": 1100,
+    "reviews": 1400,
     "ratingAvg": 4.6,
-    "downloads": 600000,
+    "downloads": 720000,
     "feature": true,
     "ratings": [
-      { "name": "1 star", "count": 30 },
-      { "name": "2 star", "count": 20 },
-      { "name": "3 star", "count": 90 },
-      { "name": "4 star", "count": 400 },
-      { "name": "5 star", "count": 560 }
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 520 },
+      { "name": "5 star", "count": 780 }
     ]
   },
   {
@@ -80,18 +80,18 @@
     "title": "NewsFlash - Breaking News & Alerts",
     "companyName": "Global Media",
     "id": 5,
-    "description": "NewsFlash brings breaking news from around the world to your fingertips. Customize topics of interest and get notifications in real-time.",
+    "description": "NewsFlash delivers real-time global news, verified updates, and customizable alerts so you never miss important events. Its clean, ad-light interface allows you to focus on stories that matter most. You can follow categories like politics, science, sports, and entertainment, and receive push notifications for breaking headlines.\n\nThe AI-powered content filter learns your reading preferences and curates relevant news automatically. For travelers and multilingual users, NewsFlash provides instant translation and offline reading options.\n\nWith fact-checked reporting and instant alerts, NewsFlash keeps you informed, connected, and ahead of the curve.",
     "size": 30,
-    "reviews": 640,
-    "ratingAvg": 4.1,
-    "downloads": 180000,
+    "reviews": 950,
+    "ratingAvg": 4.3,
+    "downloads": 260000,
     "feature": true,
     "ratings": [
-      { "name": "1 star", "count": 20 },
-      { "name": "2 star", "count": 25 },
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 50 },
       { "name": "3 star", "count": 180 },
-      { "name": "4 star", "count": 200 },
-      { "name": "5 star", "count": 215 }
+      { "name": "4 star", "count": 420 },
+      { "name": "5 star", "count": 550 }
     ]
   },
   {
@@ -99,18 +99,18 @@
     "title": "BudgetWise - Expense & Money Tracker",
     "companyName": "FinanceTech",
     "id": 6,
-    "description": "BudgetWise helps you manage your finances efficiently. Track your expenses, set monthly budgets, and get insights to save more money.",
+    "description": "BudgetWise empowers users to take full control of their finances. With automatic expense tracking, category insights, and monthly summaries, it paints a clear picture of where your money goes. The app syncs securely with multiple bank accounts, providing real-time balance updates and transaction histories.\n\nBudgetWise also includes a goal planner for savings and debt management. You can set alerts for overspending, visualize expenses through smart charts, and export financial reports instantly.\n\nWhether you’re managing personal or business budgets, BudgetWise ensures financial clarity and smarter decision-making every day.",
     "size": 20,
-    "reviews": 890,
-    "ratingAvg": 4.3,
-    "downloads": 400000,
+    "reviews": 1250,
+    "ratingAvg": 4.4,
+    "downloads": 480000,
     "feature": true,
     "ratings": [
-      { "name": "1 star", "count": 30 },
-      { "name": "2 star", "count": 35 },
-      { "name": "3 star", "count": 150 },
-      { "name": "4 star", "count": 300 },
-      { "name": "5 star", "count": 375 }
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 480 },
+      { "name": "5 star", "count": 650 }
     ]
   },
   {
@@ -118,18 +118,18 @@
     "title": "MindRelax - Meditation & Sleep",
     "companyName": "WellnessLabs",
     "id": 7,
-    "description": "MindRelax provides guided meditation and breathing exercises to reduce stress, improve focus, and enhance your overall wellbeing.",
+    "description": "MindRelax is designed to help you unwind, focus, and sleep better through guided meditations and calming soundscapes. It features sessions for stress relief, focus building, anxiety management, and sleep improvement, all created by wellness experts.\n\nThe app adjusts your session recommendations based on mood tracking and sleep analytics. You can personalize ambient sounds or background tones, creating the perfect environment for mindfulness.\n\nWith its peaceful interface and consistent guidance, MindRelax helps you cultivate a sustainable practice of mindfulness and emotional well-being.",
     "size": 18,
-    "reviews": 520,
-    "ratingAvg": 4.4,
-    "downloads": 150000,
+    "reviews": 820,
+    "ratingAvg": 4.5,
+    "downloads": 250000,
     "feature": true,
     "ratings": [
-      { "name": "1 star", "count": 15 },
-      { "name": "2 star", "count": 20 },
-      { "name": "3 star", "count": 100 },
-      { "name": "4 star", "count": 180 },
-      { "name": "5 star", "count": 205 }
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 45 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 280 },
+      { "name": "5 star", "count": 315 }
     ]
   },
   {
@@ -137,322 +137,325 @@
     "title": "Foodies - Recipes & Restaurant Finder",
     "companyName": "YumCorp",
     "id": 8,
-    "description": "Foodies helps you discover new recipes, find restaurants nearby, and share your culinary experiences with friends. Includes shopping lists and step-by-step cooking guides.",
+    "description": "Foodies connects food lovers with a world of recipes and restaurants. Discover trending dishes, follow culinary creators, and plan meals with step-by-step guides. The app includes a dynamic restaurant locator, complete with reviews, photos, and directions.\n\nFoodies’ recipe generator suggests meals based on ingredients you already have. You can create digital cookbooks, manage shopping lists, and share dishes with friends.\n\nWith its blend of inspiration and practicality, Foodies turns cooking and dining into an exciting daily experience.",
     "size": 35,
-    "reviews": 760,
-    "ratingAvg": 4.2,
-    "downloads": 280000,
+    "reviews": 1050,
+    "ratingAvg": 4.3,
+    "downloads": 380000,
     "feature": true,
     "ratings": [
-      { "name": "1 star", "count": 25 },
-      { "name": "2 star", "count": 30 },
-      { "name": "3 star", "count": 150 },
-      { "name": "4 star", "count": 200 },
-      { "name": "5 star", "count": 355 }
-    ]
-  },
-  {
-    "image": "https://i.ibb.co.com/7NCYsRmk/demo-app-3.webp",
-    "title": "WeatherNow - Real-time Weather Updates",
-    "companyName": "ClimateTech",
-    "id": 9,
-    "description": "Get real-time weather updates and alerts for your city and travel destinations. Includes radar maps and severe weather notifications.",
-    "size": 12,
-    "reviews": 430,
-    "ratingAvg": 4.0,
-    "downloads": 200000,
-    "feature": false,
-    "ratings": [
-      { "name": "1 star", "count": 10 },
-      { "name": "2 star", "count": 15 },
-      { "name": "3 star", "count": 120 },
-      { "name": "4 star", "count": 140 },
-      { "name": "5 star", "count": 145 }
-    ]
-  },
-  {
-    "image": "https://i.ibb.co.com/JwwmyV7p/demo-app-4.webp",
-    "title": "MusicVibe - Stream Your Favorite Music",
-    "companyName": "SoundWave",
-    "id": 10,
-    "description": "Stream your favorite music anytime and create personalized playlists. Explore curated playlists by mood or genre.",
-    "size": 45,
-    "reviews": 1000,
-    "ratingAvg": 4.5,
-    "downloads": 500000,
-    "feature": false,
-    "ratings": [
-      { "name": "1 star", "count": 40 },
-      { "name": "2 star", "count": 35 },
-      { "name": "3 star", "count": 180 },
-      { "name": "4 star", "count": 300 },
-      { "name": "5 star", "count": 445 }
-    ]
-  },
-  {
-    "image": "https://i.ibb.co.com/LdBzP2TC/demo-app-5.webp",
-    "title": "LearnLang - Interactive Language Learning",
-    "companyName": "EduWorld",
-    "id": 11,
-    "description": "Learn new languages interactively with games, quizzes, and conversation practice. Perfect for beginners and advanced learners.",
-    "size": 50,
-    "reviews": 800,
-    "ratingAvg": 4.3,
-    "downloads": 350000,
-    "feature": false,
-    "ratings": [
-      { "name": "1 star", "count": 20 },
-      { "name": "2 star", "count": 25 },
-      { "name": "3 star", "count": 200 },
-      { "name": "4 star", "count": 220 },
-      { "name": "5 star", "count": 335 }
-    ]
-  },
-  {
-    "image": "https://i.ibb.co.com/5gRWG5mj/demo-app-6.webp",
-    "title": "GameZone - Casual Games & Challenges",
-    "companyName": "PlayHub",
-    "id": 12,
-    "description": "GameZone brings you addictive casual games with weekly challenges and rewards. Compete with friends and climb the leaderboard.",
-    "size": 60,
-    "reviews": 900,
-    "ratingAvg": 4.4,
-    "downloads": 420000,
-    "feature": false,
-    "ratings": [
       { "name": "1 star", "count": 35 },
-      { "name": "2 star", "count": 30 },
+      { "name": "2 star", "count": 50 },
       { "name": "3 star", "count": 180 },
-      { "name": "4 star", "count": 220 },
-      { "name": "5 star", "count": 335 }
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 530 }
     ]
   },
   {
-    "image": "https://i.ibb.co.com/Rpr9xKQ5/demo-app-1.webp",
-    "title": "RecipeBook - Discover New Recipes",
-    "companyName": "CookMaster",
-    "id": 13,
-    "description": "Discover new recipes, save favorites, and follow step-by-step cooking instructions. Includes nutritional info for each dish.",
-    "size": 30,
-    "reviews": 540,
-    "ratingAvg": 4.1,
-    "downloads": 210000,
-    "feature": false,
-    "ratings": [
-      { "name": "1 star", "count": 15 },
-      { "name": "2 star", "count": 20 },
-      { "name": "3 star", "count": 100 },
-      { "name": "4 star", "count": 180 },
-      { "name": "5 star", "count": 225 }
-    ]
-  },
-  {
-    "image": "https://i.ibb.co.com/XPFqp4x/demo-app-2.webp",
-    "title": "HealthMonitor - Heart & Activity Tracker",
-    "companyName": "MediTech",
-    "id": 14,
-    "description": "Track your health metrics such as heart rate, sleep patterns, and daily activity. Get personalized recommendations for a healthier lifestyle.",
-    "size": 28,
-    "reviews": 620,
-    "ratingAvg": 4.2,
-    "downloads": 250000,
-    "feature": false,
-    "ratings": [
-      { "name": "1 star", "count": 18 },
-      { "name": "2 star", "count": 22 },
-      { "name": "3 star", "count": 140 },
-      { "name": "4 star", "count": 200 },
-      { "name": "5 star", "count": 240 }
-    ]
-  },
-  {
-    "image": "https://i.ibb.co.com/7NCYsRmk/demo-app-3.webp",
-    "title": "WorkoutPro - Guided Fitness Workouts",
-    "companyName": "FitLabs",
-    "id": 15,
-    "description": "Guided workouts for all levels. Track progress, set goals, and enjoy challenges to improve fitness daily.",
+    "image": "https://i.ibb.co.com/JwnYHBdC/sofascore.webp",
+    "title": "SofaScore - Live Sports Scores",
+    "companyName": "SofaScore Inc.",
+    "id": 9,
+    "description": "SofaScore brings you real-time updates for football, cricket, tennis, basketball, and over 20 other sports. With minute-by-minute match details, player ratings, and performance analytics, it’s the ultimate destination for sports lovers.\n\nThe app’s sleek interface gives you live commentary, team line-ups, and head-to-head statistics. Personalized notifications ensure you never miss a goal, wicket, or key moment.\n\nSofaScore’s AI-powered player rating system analyzes millions of data points every match, helping fans track performance like professionals. It also supports wearable devices, letting you check scores on the go.\n\nWhether you’re following your favorite team or tracking leagues worldwide, SofaScore makes sports tracking smart, simple, and fun.",
     "size": 35,
-    "reviews": 800,
-    "ratingAvg": 4.3,
-    "downloads": 300000,
+    "reviews": 950000,
+    "ratingAvg": 4.8,
+    "downloads": 120000000,
     "feature": false,
     "ratings": [
-      { "name": "1 star", "count": 20 },
-      { "name": "2 star", "count": 25 },
-      { "name": "3 star", "count": 150 },
-      { "name": "4 star", "count": 200 },
-      { "name": "5 star", "count": 405 }
+      { "name": "1 star", "count": 5400 },
+      { "name": "2 star", "count": 3200 },
+      { "name": "3 star", "count": 9400 },
+      { "name": "4 star", "count": 42000 },
+      { "name": "5 star", "count": 900000 }
     ]
   },
   {
-    "image": "https://i.ibb.co.com/JwwmyV7p/demo-app-4.webp",
-    "title": "MeditationNow - Guided Meditation & Relaxation",
-    "companyName": "CalmSpace",
-    "id": 16,
-    "description": "MeditationNow offers guided meditation sessions, sleep stories, and breathing exercises to reduce stress and improve focus.",
-    "size": 22,
-    "reviews": 540,
-    "ratingAvg": 4.4,
-    "downloads": 180000,
-    "feature": false,
-    "ratings": [
-      { "name": "1 star", "count": 12 },
-      { "name": "2 star", "count": 18 },
-      { "name": "3 star", "count": 120 },
-      { "name": "4 star", "count": 160 },
-      { "name": "5 star", "count": 230 }
-    ]
-  },
-  {
-    "image": "https://i.ibb.co.com/LdBzP2TC/demo-app-5.webp",
-    "title": "DailyPlanner - Organize Your Day",
-    "companyName": "OrganizeIt",
-    "id": 17,
-    "description": "Plan your day effectively with DailyPlanner. Track tasks, events, and deadlines all in one place with reminders.",
-    "size": 20,
-    "reviews": 480,
-    "ratingAvg": 4.1,
-    "downloads": 170000,
-    "feature": false,
-    "ratings": [
-      { "name": "1 star", "count": 15 },
-      { "name": "2 star", "count": 20 },
-      { "name": "3 star", "count": 110 },
-      { "name": "4 star", "count": 150 },
-      { "name": "5 star", "count": 185 }
-    ]
-  },
-  {
-    "image": "https://i.ibb.co.com/5gRWG5mj/demo-app-6.webp",
-    "title": "TravelGuide - Explore Destinations Easily",
-    "companyName": "Wanderlust Inc.",
-    "id": 18,
-    "description": "TravelGuide offers local guides, maps, and must-see attractions for travelers. Plan your perfect vacation effortlessly.",
+    "image": "https://i.ibb.co.com/mCKpbMhW/mxplayer.webp",
+    "title": "MX Player - Video Player & Streaming",
+    "companyName": "MX Media & Entertainment",
+    "id": 10,
+    "description": "MX Player is one of the world’s most popular video players, offering powerful decoding and streaming capabilities. It supports almost every video format, including 4K and HDR playback.\n\nThe app allows gesture-based controls for volume, brightness, and navigation. Its child lock and subtitle support make it ideal for family use.\n\nBeyond playback, MX Player offers a massive collection of movies, series, and short videos across languages. Smart recommendations adapt to your taste.\n\nIts hardware acceleration and multi-core decoding deliver smooth playback even on older devices. MX Player is more than a player—it’s your complete entertainment hub.",
     "size": 48,
-    "reviews": 720,
-    "ratingAvg": 4.2,
-    "downloads": 290000,
+    "reviews": 3100000,
+    "ratingAvg": 4.6,
+    "downloads": 500000000,
     "feature": false,
     "ratings": [
-      { "name": "1 star", "count": 18 },
-      { "name": "2 star", "count": 22 },
-      { "name": "3 star", "count": 140 },
-      { "name": "4 star", "count": 200 },
-      { "name": "5 star", "count": 340 }
+      { "name": "1 star", "count": 12000 },
+      { "name": "2 star", "count": 8400 },
+      { "name": "3 star", "count": 30000 },
+      { "name": "4 star", "count": 100000 },
+      { "name": "5 star", "count": 2970000 }
     ]
   },
   {
-    "image": "https://i.ibb.co.com/Rpr9xKQ5/demo-app-1.webp",
-    "title": "BookWorld - Digital Library & Reader",
-    "companyName": "Readify",
-    "id": 19,
-    "description": "BookWorld is a digital library app where you can read thousands of books online. Discover bestsellers, save favorites, and customize reading preferences.",
-    "size": 33,
-    "reviews": 680,
-    "ratingAvg": 4.3,
-    "downloads": 310000,
+    "image": "https://i.ibb.co.com/b5MkdYqJ/capcut.webp",
+    "title": "CapCut - Video Editor & Maker",
+    "companyName": "Bytedance Pte. Ltd.",
+    "id": 11,
+    "description": "CapCut makes professional-quality video editing accessible to everyone. It combines AI tools, cinematic filters, and advanced effects to transform your videos into masterpieces.\n\nFrom trimming and transitions to 3D zoom and motion tracking, CapCut offers everything a creator needs. You can add text, stickers, sound effects, and background music with a few taps.\n\nSocial media optimization ensures videos are ready for platforms like TikTok, Instagram, and YouTube. It also provides a massive royalty-free music library.\n\nWhether you’re a beginner or pro, CapCut’s intuitive timeline editing and templates help you produce stunning videos quickly.",
+    "size": 89,
+    "reviews": 6400000,
+    "ratingAvg": 4.7,
+    "downloads": 350000000,
     "feature": false,
     "ratings": [
-      { "name": "1 star", "count": 20 },
-      { "name": "2 star", "count": 25 },
-      { "name": "3 star", "count": 150 },
-      { "name": "4 star", "count": 200 },
-      { "name": "5 star", "count": 285 }
+      { "name": "1 star", "count": 18000 },
+      { "name": "2 star", "count": 12000 },
+      { "name": "3 star", "count": 52000 },
+      { "name": "4 star", "count": 220000 },
+      { "name": "5 star", "count": 6100000 }
     ]
   },
   {
-    "image": "https://i.ibb.co.com/XPFqp4x/demo-app-2.webp",
-    "title": "StudyBuddy - Focus Timer for Study",
-    "companyName": "EduTools",
-    "id": 20,
-    "description": "StudyBuddy helps you concentrate with a focus timer, study reminders, and task management tools. Boost productivity and track study hours easily.",
-    "size": 16,
-    "reviews": 540,
-    "ratingAvg": 4.4,
-    "downloads": 220000,
+    "image": "https://i.ibb.co.com/tMKgLYwL/aliexpress.webp",
+    "title": "AliExpress - Online Shopping",
+    "companyName": "Alibaba Mobile",
+    "id": 12,
+    "description": "AliExpress is one of the world’s largest online shopping platforms, connecting millions of buyers with global sellers. You’ll find everything—from fashion and electronics to home decor and accessories—at competitive prices.\n\nWith fast shipping, secure payments, and real-time tracking, shopping on AliExpress is simple and safe. The app provides daily flash deals and exclusive coupons for registered users.\n\nPersonalized recommendations and buyer reviews help you make informed choices. AliExpress also supports multiple languages and currencies for global accessibility.\n\nIt’s the perfect marketplace for smart shoppers who want more variety, better deals, and a seamless shopping experience.",
+    "size": 78,
+    "reviews": 12000000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
     "feature": false,
     "ratings": [
-      { "name": "1 star", "count": 10 },
-      { "name": "2 star", "count": 15 },
-      { "name": "3 star", "count": 100 },
-      { "name": "4 star", "count": 180 },
-      { "name": "5 star", "count": 235 }
+      { "name": "1 star", "count": 42000 },
+      { "name": "2 star", "count": 31000 },
+      { "name": "3 star", "count": 88000 },
+      { "name": "4 star", "count": 240000 },
+      { "name": "5 star", "count": 11650000 }
     ]
   },
   {
-    "image": "https://i.ibb.co.com/7NCYsRmk/demo-app-3.webp",
-    "title": "NoteMaster - Notes & To-Do Lists",
-    "companyName": "NoteTech",
-    "id": 21,
-    "description": "NoteMaster allows you to take notes, organize tasks, and manage your daily to-do lists efficiently with sync across devices.",
-    "size": 18,
-    "reviews": 470,
-    "ratingAvg": 4.1,
-    "downloads": 180000,
-    "feature": false,
-    "ratings": [
-      { "name": "1 star", "count": 12 },
-      { "name": "2 star", "count": 15 },
-      { "name": "3 star", "count": 100 },
-      { "name": "4 star", "count": 140 },
-      { "name": "5 star", "count": 203 }
-    ]
-  },
-  {
-    "image": "https://i.ibb.co.com/JwwmyV7p/demo-app-4.webp",
-    "title": "LanguageLab - Interactive Language Practice",
-    "companyName": "EduWorld",
-    "id": 22,
-    "description": "LanguageLab offers interactive exercises, vocabulary games, and real-time practice to help learners improve language skills efficiently.",
-    "size": 40,
-    "reviews": 610,
-    "ratingAvg": 4.2,
-    "downloads": 270000,
-    "feature": false,
-    "ratings": [
-      { "name": "1 star", "count": 18 },
-      { "name": "2 star", "count": 20 },
-      { "name": "3 star", "count": 140 },
-      { "name": "4 star", "count": 200 },
-      { "name": "5 star", "count": 232 }
-    ]
-  },
-  {
-    "image": "https://i.ibb.co.com/LdBzP2TC/demo-app-5.webp",
-    "title": "HealthPlus - Diet & Nutrition Tracker",
-    "companyName": "HealthPro",
-    "id": 23,
-    "description": "HealthPlus tracks your daily meals, calorie intake, and nutrition. Provides diet plans and recommendations for a healthy lifestyle.",
+    "image": "https://i.ibb.co.com/k2Jytnbn/ridmik.webp",
+    "title": "Ridmik Keyboard - Bangla Typing",
+    "companyName": "Ridmik Labs",
+    "id": 13,
+    "description": "Ridmik Keyboard brings smooth, accurate Bangla and English typing with phonetic, national, and Avro layouts. It’s the most loved keyboard in Bangladesh, designed for speed and precision.\n\nThe app includes emojis, themes, and customizable key layouts. Voice typing and auto-correct make messaging effortless.\n\nRidmik Keyboard also supports prediction learning, meaning it adapts to your writing style for faster input over time. Lightweight and secure, it ensures full privacy with no data sharing.\n\nFor millions of users, Ridmik is not just a keyboard—it’s a bridge connecting digital communication in their mother tongue.",
     "size": 32,
-    "reviews": 580,
-    "ratingAvg": 4.3,
-    "downloads": 260000,
+    "reviews": 1600000,
+    "ratingAvg": 4.8,
+    "downloads": 75000000,
     "feature": false,
     "ratings": [
-      { "name": "1 star", "count": 15 },
-      { "name": "2 star", "count": 20 },
-      { "name": "3 star", "count": 120 },
-      { "name": "4 star", "count": 180 },
-      { "name": "5 star", "count": 245 }
+      { "name": "1 star", "count": 4200 },
+      { "name": "2 star", "count": 2600 },
+      { "name": "3 star", "count": 7800 },
+      { "name": "4 star", "count": 38000 },
+      { "name": "5 star", "count": 1550000 }
     ]
   },
   {
-    "image": "https://i.ibb.co.com/5gRWG5mj/demo-app-6.webp",
-    "title": "CityExplorer - Local Events & Activities",
-    "companyName": "UrbanLife",
-    "id": 24,
-    "description": "CityExplorer helps you find local events, activities, and hangouts in your city. Perfect for tourists and locals looking for entertainment.",
-    "size": 28,
-    "reviews": 500,
-    "ratingAvg": 4.1,
-    "downloads": 240000,
+    "image": "https://i.ibb.co.com/Xkz2QSzg/wps.webp",
+    "title": "WPS Office - PDF, Word, Excel",
+    "companyName": "Kingsoft Office",
+    "id": 14,
+    "description": "WPS Office is a full-featured productivity suite that lets you create, edit, and view Word, Excel, PowerPoint, and PDF files on the go. It’s lightweight, fast, and compatible with all major document formats.\n\nThe app provides a built-in cloud drive, templates, and real-time collaboration features. PDF scanning, merging, and signing tools make it ideal for professionals.\n\nWPS Office supports dark mode, file encryption, and seamless cross-platform sync. Whether you’re a student, office worker, or entrepreneur, it simplifies your workflow like never before.",
+    "size": 98,
+    "reviews": 9800000,
+    "ratingAvg": 4.6,
+    "downloads": 500000000,
     "feature": false,
     "ratings": [
-      { "name": "1 star", "count": 12 },
-      { "name": "2 star", "count": 18 },
-      { "name": "3 star", "count": 100 },
-      { "name": "4 star", "count": 160 },
-      { "name": "5 star", "count": 210 }
+      { "name": "1 star", "count": 18000 },
+      { "name": "2 star", "count": 12500 },
+      { "name": "3 star", "count": 38000 },
+      { "name": "4 star", "count": 190000 },
+      { "name": "5 star", "count": 9350000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/nqRzKtHy/camscanner.webp",
+    "title": "CamScanner - PDF Scanner App",
+    "companyName": "INTSIG Information Co., Ltd.",
+    "id": 15,
+    "description": "CamScanner transforms your phone into a portable scanner, helping you digitize documents, receipts, notes, and certificates with crystal clarity. With advanced OCR and smart cropping, it extracts text instantly from images.\n\nThe app allows you to create, merge, and sign PDFs. Cloud backup keeps your files secure and accessible anywhere. AI-powered enhancement ensures every scan looks professional.\n\nWhether you’re a student, professional, or business owner, CamScanner makes document management effortless — scan, edit, and share in seconds.",
+    "size": 67,
+    "reviews": 6200000,
+    "ratingAvg": 4.7,
+    "downloads": 400000000,
+    "feature": false,
+    "ratings": [
+      { "name": "1 star", "count": 22000 },
+      { "name": "2 star", "count": 14000 },
+      { "name": "3 star", "count": 48000 },
+      { "name": "4 star", "count": 260000 },
+      { "name": "5 star", "count": 5860000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/mCy27LG3/telegram.webp",
+    "title": "Telegram - Fast & Secure Messaging",
+    "companyName": "Telegram FZ-LLC",
+    "id": 16,
+    "description": "Telegram is a cloud-based messaging app known for speed, security, and simplicity. It offers unlimited cloud storage, powerful group chats, and seamless media sharing.\n\nWith end-to-end encrypted secret chats, Telegram keeps your privacy intact. It supports file sharing up to 2 GB, and its bots, channels, and communities make it a versatile platform.\n\nMulti-device sync lets you access your messages anywhere. With customizable themes and stickers, Telegram blends fun with functionality.",
+    "size": 55,
+    "reviews": 15000000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "feature": false,
+    "ratings": [
+      { "name": "1 star", "count": 51000 },
+      { "name": "2 star", "count": 37000 },
+      { "name": "3 star", "count": 96000 },
+      { "name": "4 star", "count": 380000 },
+      { "name": "5 star", "count": 14400000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/3m5mChNH/messenger.webp",
+    "title": "Messenger - Text, Voice & Video Chat",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 17,
+    "description": "Messenger connects you instantly with friends and family through text, voice, and video chat. You can share photos, stickers, GIFs, and voice notes, or start high-quality group video calls.\n\nThe app integrates seamlessly with Facebook and Instagram. Features like chat themes, vanish mode, and payment options make conversations more dynamic.\n\nFrom instant reactions to message encryption, Messenger continues evolving to make digital communication richer and safer.",
+    "size": 120,
+    "reviews": 32000000,
+    "ratingAvg": 4.2,
+    "downloads": 5000000000,
+    "feature": false,
+    "ratings": [
+      { "name": "1 star", "count": 180000 },
+      { "name": "2 star", "count": 125000 },
+      { "name": "3 star", "count": 520000 },
+      { "name": "4 star", "count": 2400000 },
+      { "name": "5 star", "count": 29000000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/3ydXXCnd/truecaller.webp",
+    "title": "Truecaller - Caller ID & Block",
+    "companyName": "Truecaller AB",
+    "id": 18,
+    "description": "Truecaller helps you identify unknown callers, block spam calls and messages, and manage your contacts more efficiently. Its large community-based database identifies millions of numbers daily.\n\nThe app also supports call recording, smart messaging, and spam detection powered by AI.\n\nWith an elegant interface and advanced privacy controls, Truecaller ensures you always know who’s calling — even before you answer.",
+    "size": 56,
+    "reviews": 23000000,
+    "ratingAvg": 4.4,
+    "downloads": 1000000000,
+    "feature": false,
+    "ratings": [
+      { "name": "1 star", "count": 90000 },
+      { "name": "2 star", "count": 62000 },
+      { "name": "3 star", "count": 180000 },
+      { "name": "4 star", "count": 940000 },
+      { "name": "5 star", "count": 21700000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/xbwzW1F/shareit.webp",
+    "title": "SHAREit - File Transfer & Share",
+    "companyName": "Smart Media4U Technology Pte. Ltd.",
+    "id": 19,
+    "description": "SHAREit allows you to transfer files, photos, music, and videos between devices without internet or cables. Its lightning-fast P2P technology makes sharing up to 200× faster than Bluetooth.\n\nYou can also stream videos, play music, and manage files directly inside the app.\n\nWith cross-platform support, SHAREit connects Android, iOS, Windows, and Mac devices with ease.",
+    "size": 45,
+    "reviews": 11000000,
+    "ratingAvg": 4.3,
+    "downloads": 2000000000,
+    "feature": false,
+    "ratings": [
+      { "name": "1 star", "count": 65000 },
+      { "name": "2 star", "count": 47000 },
+      { "name": "3 star", "count": 150000 },
+      { "name": "4 star", "count": 640000 },
+      { "name": "5 star", "count": 10100000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/mrFzMQs5/chrome.webp",
+    "title": "Google Chrome - Fast & Secure",
+    "companyName": "Google LLC",
+    "id": 20,
+    "description": "Google Chrome brings you fast, secure, and intelligent browsing. It syncs seamlessly across devices, providing personalized suggestions and real-time translation.\n\nChrome features incognito mode, data saver, voice search, and built-in protection against phishing and malware.\n\nIts minimalist design and smooth performance make it the world’s most trusted browser on Android.",
+    "size": 180,
+    "reviews": 45000000,
+    "ratingAvg": 4.3,
+    "downloads": 10000000000,
+    "feature": false,
+    "ratings": [
+      { "name": "1 star", "count": 220000 },
+      { "name": "2 star", "count": 175000 },
+      { "name": "3 star", "count": 520000 },
+      { "name": "4 star", "count": 2400000 },
+      { "name": "5 star", "count": 42000000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/8DpBpHp9/pingo.webp",
+    "title": "Pingo - Smart Kids GPS & Chat",
+    "companyName": "GeoZilla Inc.",
+    "id": 21,
+    "description": "Pingo is a family safety app that keeps parents connected with their children in real time. Using GPS tracking, it shows live location, routes, and battery levels.\n\nIt allows parents to send voice messages, create safe zones, and receive alerts if kids leave a designated area.\n\nSimple, secure, and family-friendly — Pingo ensures peace of mind every day.",
+    "size": 40,
+    "reviews": 540000,
+    "ratingAvg": 4.7,
+    "downloads": 10000000,
+    "feature": false,
+    "ratings": [
+      { "name": "1 star", "count": 2000 },
+      { "name": "2 star", "count": 1400 },
+      { "name": "3 star", "count": 3800 },
+      { "name": "4 star", "count": 18000 },
+      { "name": "5 star", "count": 516000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/TD4tvx70/whatsapp.jpg",
+    "title": "WhatsApp Messenger",
+    "companyName": "WhatsApp LLC",
+    "id": 22,
+    "description": "WhatsApp lets you send text, voice, and video messages for free — securely and instantly. It supports HD video calls, group chats, and file sharing without ads.\n\nEnd-to-end encryption keeps your conversations private. Multi-device support ensures you stay connected on phone, tablet, or web.\n\nWith over two billion users worldwide, WhatsApp remains the most trusted way to stay in touch with loved ones.",
+    "size": 90,
+    "reviews": 168000000,
+    "ratingAvg": 4.4,
+    "downloads": 10000000000,
+    "feature": false,
+    "ratings": [
+      { "name": "1 star", "count": 720000 },
+      { "name": "2 star", "count": 410000 },
+      { "name": "3 star", "count": 1300000 },
+      { "name": "4 star", "count": 4800000 },
+      { "name": "5 star", "count": 161000000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/7J2jscPg/tiktok-7199392-1280.jpg",
+    "title": "TikTok - Short Videos & Trends",
+    "companyName": "TikTok Pte. Ltd.",
+    "id": 23,
+    "description": "TikTok is the global platform for short videos — creative, entertaining, and inspiring. Join millions of creators showcasing talent, trends, and challenges every day.\n\nWith powerful editing tools, music effects, and filters, TikTok helps you make professional-quality content in seconds.\n\nIts smart algorithm tailors videos to your interests, keeping your feed endlessly engaging.",
+    "size": 120,
+    "reviews": 110000000,
+    "ratingAvg": 4.4,
+    "downloads": 5000000000,
+    "feature": false,
+    "ratings": [
+      { "name": "1 star", "count": 640000 },
+      { "name": "2 star", "count": 410000 },
+      { "name": "3 star", "count": 1180000 },
+      { "name": "4 star", "count": 5000000 },
+      { "name": "5 star", "count": 103000000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/pDJ8Mfq/vimeo-1459809-1280.png",
+    "title": "Vimeo - Video Creation & Sharing",
+    "companyName": "Vimeo, Inc.",
+    "id": 24,
+    "description": "Vimeo is the home of high-quality video creation and sharing for filmmakers and professionals. Upload, edit, and share videos in stunning 4K resolution.\n\nThe app features intuitive editing tools, collaboration options, and private sharing links.\n\nVimeo’s creative community inspires you to showcase your art without ads or distractions.",
+    "size": 70,
+    "reviews": 1800000,
+    "ratingAvg": 4.5,
+    "downloads": 50000000,
+    "feature": false,
+    "ratings": [
+      { "name": "1 star", "count": 8000 },
+      { "name": "2 star", "count": 6000 },
+      { "name": "3 star", "count": 16000 },
+      { "name": "4 star", "count": 58000 },
+      { "name": "5 star", "count": 1710000 }
     ]
   }
+
+
+
 ]
