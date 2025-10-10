@@ -1,5 +1,6 @@
 import React from 'react';
 import AppCard from '../../pages/AppCard/AppCard';
+import { Link } from 'react-router';
 
 const TopApps = ({apps}) => {
 
@@ -15,9 +16,9 @@ const TopApps = ({apps}) => {
 
             </div>
           <div className='flex justify-center mt-[16px] sm:mt-[24px] md:mt-[32px] lg:mt-[36px] xl:mt-[40px] 2xl:mt-[40px]'>
-               <button className='px-[16px] py-[8px] sm:px-[24px] sm:py-[10px] md:px-[32px] md:py-[12px] lg:px-[36px] lg:py-[14px] xl:px-[40px] xl:py-[15px] 2xl:px-[40px] 2xl:py-[15px] bg-gradient-to-tr from-[#632EE3] to-[#9F62F2] text-[#FFFFFF] font-semibold rounded-[8px] text-[12px] sm:text-[13px] md:text-[14px] lg:text-[15px] xl:text-[15px] 2xl:text-[16px]'>
+               <Link to='/apps' className='px-[16px] py-[8px] sm:px-[24px] sm:py-[10px] md:px-[32px] md:py-[12px] lg:px-[36px] lg:py-[14px] xl:px-[40px] xl:py-[15px] 2xl:px-[40px] 2xl:py-[15px] bg-gradient-to-tr from-[#632EE3] to-[#9F62F2] text-[#FFFFFF] font-semibold rounded-[8px] text-[12px] sm:text-[13px] md:text-[14px] lg:text-[15px] xl:text-[15px] 2xl:text-[16px]'>
                 Show All
-            </button>
+            </Link>
           </div>
             
         </div>

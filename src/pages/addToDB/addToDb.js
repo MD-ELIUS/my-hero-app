@@ -26,7 +26,7 @@ if(installedAppsData.includes(id)) {
     else {
         installedAppsData.push(id);
         localStorage.setItem('installedList', JSON.stringify(installedAppsData));
-        toast('Apps are installed !');
+        toast.success('Apps are installed !');
         
       
     }

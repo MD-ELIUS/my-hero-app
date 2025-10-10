@@ -11,10 +11,10 @@ const Navbar = () => {
     const [menuOpen, setMenuOpen] = useState(false)
     return (
         <div className='px-[16px] sm:px-[20px] md:px-[40px] lg:px-[60px] xl:px-[70px] 2xl:px-[80px] py-[8px] sm:py-[12px] md:py-[14px] lg:py-[15px] xl:py-[16px] 2xl:py-[16px] flex justify-between items-center relative'>
-            <div className='flex items-center gap-2'>
+            <Link to='/' className='flex items-center gap-2'>
                   <img className='h-[24px] w-[24px] sm:h-[28px] sm:w-[28px] md:h-[32px] md:w-[32px] lg:h-[36px] lg:w-[36px] xl:h-[38px] xl:w-[38px] 2xl:h-[40px] 2xl:w-[40px]' src={logoImg} alt="" />
                   <h4 className='text-[12px] sm:text-[13px] md:text-[14px] lg:text-[15px] xl:text-[16px] 2xl:text-[16px] bg-gradient-to-tr from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent font-bold'>HERO.IO</h4>
-            </div>
+            </Link>
 
           <nav className={`md:flex md:gap-[32px] items-center absolute md:static bg-white md:bg-transparent
     top-full left-0 w-full md:w-auto transition-all duration-300 ease-in-out shadow-md md:shadow-none
